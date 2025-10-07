@@ -24,7 +24,7 @@ function Form() {
         value={formData}
         onChange={(e) => setFormData(e.target.value)}
       />
-      <button type="submit">Click</button>
+      <button type="submit">Click Here</button>
     </form>
   );
 }
